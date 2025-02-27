@@ -5,7 +5,7 @@ Dive into the heart of Zambia with Zam-Quiz-Mania, a Java GUI application design
 
 # 1. 🎮 How to Play
 Clone the Repository:
-git clone [your-repo-url]
+git clone https://github.com/Chabbylupuuta/Zam-Quiz-Mania/tree/main
 
 # 2. Navigate to the Project Directory:
 cd Zam-Quiz-Mania
