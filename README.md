@@ -48,3 +48,4 @@ Samurai Incoperated📜<br>
 
 📸 Screenshots
  🖼️
+ ![Alt text](Images/Zam Mania Quiz .png)
