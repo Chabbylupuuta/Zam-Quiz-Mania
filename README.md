@@ -44,9 +44,9 @@ Contributions are welcome! Feel free to submit pull requests or open issues for 
 feature requests, or general improvements. Let's make Zam-Quiz-Mania even better together! 🤝<br>
 
 # 📄 License
-Samurai Incoperated📜<br>
+Samurai Incoperated📜<br>📸 Screenshots 🖼️
 
-📸 Screenshots  ![Zam Mania Quiz ](https://github.com/user-attachments/assets/c48a39e2-ce7b-4d8f-b1f1-347e9fd258b4)
+  ![Zam Mania Quiz ](https://github.com/user-attachments/assets/c48a39e2-ce7b-4d8f-b1f1-347e9fd258b4)
 
- 🖼️
+
 
