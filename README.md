@@ -46,6 +46,7 @@ feature requests, or general improvements. Let's make Zam-Quiz-Mania even better
 # 📄 License
 Samurai Incoperated📜<br>
 
-📸 Screenshots
+📸 Screenshots  ![Zam Mania Quiz ](https://github.com/user-attachments/assets/c48a39e2-ce7b-4d8f-b1f1-347e9fd258b4)
+
  🖼️
- ![Alt text](Images/Zam Mania Quiz .png)
+
